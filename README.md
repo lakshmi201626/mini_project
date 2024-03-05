@@ -1,3 +1,6 @@
+**MOBILE PRICE RANGE PREDICTION**
+
+
 In this rapidly evolving technological landscape,we can see a lot of electronic devices,each of them offering a unique set of features and values. How can we accurately predict the price range of these gadgets. In the case of Mobile Phones, Price range prediction is essential to facilitate decision-making, empower consumers, and enable businesses to navigate the complexities of a rapidly evolving and diverse mobile market. Accurate price predictions assist consumers in planning their budgets effectively, aligning their preferences with available options and preventing unexpected financial burdens.
 
 Objectives:
