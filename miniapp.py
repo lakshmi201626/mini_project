@@ -192,13 +192,13 @@ def main():
         if pred:
             prediction = model.predict(scaler.transform([features]))
             if prediction==0:
-                st.write('Low Cost  8000-15000')
+                st.write('Price Range: LOW')
             elif prediction==1:
-                st.write('Medium Price Range  15000-25000')
+                st.write('Price Range: MEDIUM')
             elif prediction==2:
-                st.write('High Price Range   25000-35000')
+                st.write('Price Range: HIGH')
             else:
-                st.write('Very High price Range    35000+')
+                st.write('Price Range: VERY HIGH')
 
 
 main()
